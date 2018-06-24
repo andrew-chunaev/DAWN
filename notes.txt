@@ -1,0 +1,8 @@
+This was don to add git proyects as "git modules" of DAWN
+
+$ git submodule add https://github.com/mauriciogracia/DGuitarSoftware.git DGuitarSoftware
+
+$ git submodule add https://github.com/mhroth/jvsthost.git jvsthost
+
+$ git submodule add https://github.com/ButhainahAldosary/Frinika.git Frinika
+

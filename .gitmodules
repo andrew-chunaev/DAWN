@@ -1,0 +1,9 @@
+[submodule "DGuitarSoftware"]
+	path = DGuitarSoftware
+	url = https://github.com/mauriciogracia/DGuitarSoftware.git
+[submodule "jvsthost"]
+	path = jvsthost
+	url = https://github.com/mhroth/jvsthost.git
+[submodule "Frinika"]
+	path = Frinika
+	url = https://github.com/ButhainahAldosary/Frinika.git
